@@ -1,0 +1,27 @@
+2026-01-02T10:17:41.5428189Z ##[group]Run npm install
+2026-01-02T10:17:41.5428726Z [36;1mnpm install[0m
+2026-01-02T10:17:41.5429119Z [36;1mnpx webpack[0m
+2026-01-02T10:17:41.5477720Z shell: /usr/bin/bash -e {0}
+2026-01-02T10:17:41.5478211Z ##[endgroup]
+2026-01-02T10:17:43.2608034Z 
+2026-01-02T10:17:43.2614878Z added 111 packages, and audited 112 packages in 2s
+2026-01-02T10:17:43.2615352Z 
+2026-01-02T10:17:43.2615617Z 20 packages are looking for funding
+2026-01-02T10:17:43.2615991Z   run `npm fund` for details
+2026-01-02T10:17:43.2707865Z 
+2026-01-02T10:17:43.2708425Z 6 high severity vulnerabilities
+2026-01-02T10:17:43.2708823Z 
+2026-01-02T10:17:43.2709190Z To address issues that do not require attention, run:
+2026-01-02T10:17:43.2709668Z   npm audit fix
+2026-01-02T10:17:43.2709821Z 
+2026-01-02T10:17:43.2710115Z To address all issues (including breaking changes), run:
+2026-01-02T10:17:43.2710563Z   npm audit fix --force
+2026-01-02T10:17:43.2711022Z 
+2026-01-02T10:17:43.2711193Z Run `npm audit` for details.
+2026-01-02T10:17:43.8845143Z npm warn exec The following package was not found and will be installed: webpack@5.104.1
+2026-01-02T10:17:46.2896235Z CLI for webpack must be installed.
+2026-01-02T10:17:46.2897161Z   webpack-cli (https://github.com/webpack/webpack-cli)
+2026-01-02T10:17:46.2897693Z 
+2026-01-02T10:17:46.2898304Z We will use "npm" to install the CLI via "npm install -D webpack-cli".
+2026-01-02T10:17:46.3144040Z Do you want to install 'webpack-cli' (yes/no): 
+2026-01-02T10:17:46.3159502Z ##[error]Process completed with exit code 1.
